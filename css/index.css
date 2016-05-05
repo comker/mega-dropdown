@@ -1,0 +1,16 @@
+
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: sans-serif;
+  color: #111433;
+  background-color: #ffffff;
+}
+
+a {
+  color: #3f8654;
+  text-decoration: none;
+}
